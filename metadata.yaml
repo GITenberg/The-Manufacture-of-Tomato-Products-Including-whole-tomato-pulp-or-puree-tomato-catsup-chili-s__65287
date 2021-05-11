@@ -1,11 +1,16 @@
 _repo: The-Manufacture-of-Tomato-Products-Including-whole-tomato-pulp-or-puree-tomato-catsup-chili-s__65287
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65287-h/images/cover.jpg
 creator:
   author:
     agent_name: Hier, W. G.
     gutenberg_agent_id: '53269'
     url: http://www.gutenberg.org/2009/agents/53269
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65287#The-Manufacture-of-Tomato-Products-Including-whole-tomato-pulp-or-puree-tomato-catsup-chili-s_
 gutenberg_issued: '2021-05-08'
 gutenberg_type: Text
 identifiers:
